@@ -380,9 +380,7 @@ def main_app():
         st.success("Logged out successfully!")
         st.rerun()
 
-# ----------------------
 # Run App
-# ----------------------
 if not st.session_state.logged_in:
     login_screen()
 else:

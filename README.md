@@ -136,13 +136,13 @@ Available under **Sidebar → Stats**:
 
 - Mariano, Isaiah John
 - Montealto, Meluisa
-- Regalario, Danyel
+- Regalario, Jeremiah Daniel
 
 ---
 
 ## 🙌 Acknowledgments
 
-- MediaPipe Pose by Google Research  
+- [MediaPipe](https://github.com/google-ai-edge/mediapipe) Pose by Google Research  
 - Streamlit-WebRTC for real-time webcam support  
 - Altair for interactive visualization  
 
