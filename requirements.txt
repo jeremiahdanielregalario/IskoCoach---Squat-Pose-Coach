@@ -1,8 +1,9 @@
 streamlit
 streamlit-webrtc
-opencv-python-headless
+opencv-python-4.10.0.84 
 mediapipe
-numpy
+numpy==1.25.4
 pandas
 altair
+pyarrow
 av
